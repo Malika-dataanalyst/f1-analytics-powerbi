@@ -10,25 +10,25 @@ The Power BI dashboard is divided into four main sections:
 
 Provides a high-level view of Formula 1 history, including key statistics and overall championship information.
 
-![Overview Dashboard](Screenshots/overview.png)
+![Overview Dashboard](screenshots/overview.png)
 
 ### 🏆 Constructors
 
 Analyzes constructor performance across Formula 1 history, including championship performance, points, and race results.
 
-![Constructors Dashboard](Screenshots/constructors.png)
+![Constructors Dashboard](screenshots/constructors.png)
 
 ### 👤 Drivers
 
 Explores driver performance, championships, race wins, and points throughout Formula 1 history.
 
-![Drivers Dashboard](creenshots/drivers.png)
+![Drivers Dashboard](screenshots/drivers.png)
 
 ### 🌍 Races
 
 Analyzes the history of Formula 1 races and circuits, including race distribution across countries and other race-related statistics.
 
-![Races Dashboard](Screenshots/races.png)
+![Races Dashboard](screenshots/races.png)
 
 ## 🛠️ Tools & Technologies
 
@@ -44,17 +44,17 @@ f1-analytics-powerbi/
 │
 ├── README.md
 │
-├── PowerBI/
+├── powerbi/
 │   └── F1_Dashbord.pbix
 │
-├── Data/
+├── data/
 │   ├── circuits.csv
 │   ├── constructors.csv
 │   ├── drivers.csv
 │   ├── races.csv
 │   └── ...
 │
-└── Screenshots/
+└── screenshots/
     ├── overview.png
     ├── constructors.png
     ├── drivers.png
