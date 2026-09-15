@@ -16,13 +16,13 @@ Provides a high-level view of Formula 1 history, including key statistics and ov
 
 Analyzes constructor performance across Formula 1 history, including championship performance, points, and race results.
 
-![Constructors Dashboard](screenshots/constructors.png)
+![Constructors Dashboard](Screenshots/constructors.png)
 
 ### 👤 Drivers
 
 Explores driver performance, championships, race wins, and points throughout Formula 1 history.
 
-![Drivers Dashboard](Screenshots/drivers.png)
+![Drivers Dashboard](creenshots/drivers.png)
 
 ### 🌍 Races
 
